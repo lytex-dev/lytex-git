@@ -74,12 +74,12 @@
 ## Clonando um repositório 
 
    ```bash
-  git clone https://github.com/thayronepaula/test147@.git  
+  git clone https://github.com/thayronepaula/lytex-git.git 
   ```
 
 # Desafio
-
- - [ ] Clonar este repositório
+ - [ ] fazer o fork deste projeto
+ - [ ] Clonar o repositório do SEU github
  - [ ] Criar uma branch nova (local)
  - [ ] Fazer alguma alteração
  - [ ] Fazer o push dessa branch
