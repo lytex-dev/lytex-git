@@ -1,4 +1,6 @@
-# [Git e Github](https://blog.betrybe.com/tecnologia/git-e-github/).
+# [Git e Github](https://blog.betrybe.com/tecnologia/git-e-github/). 
+
+### [Baixar pdf](https://cdn.discordapp.com/attachments/1026500745396236379/1079759413461655592/COMANDOS_GIT_.pdf)
 
 ## Instalação do git na sua máquina.
 - [ ] Instalação do [git](https://git-scm.com/downloads) no seu sistema.
